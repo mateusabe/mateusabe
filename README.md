@@ -1,96 +1,108 @@
-# 👋 Fala aí, eu sou o Mateus Miranda
+# 👋 Hi, I'm Mateus Miranda
 
-💻 Backend Developer focado em **C# e .NET**  
-🏗️ Apaixonado por **arquitetura de software, DDD e sistemas distribuídos**  
-⚡ Sempre buscando equilíbrio entre **clean code e performance**  
+### Backend Engineer | C# • .NET • TypeScript
 
-Atualmente trabalho construindo **APIs escaláveis e sistemas robustos**, lidando com integrações, mensageria e arquitetura de backend.
+I'm a **Backend Engineer** passionate about designing scalable, resilient, and maintainable software.
 
----
+I specialize in building high-performance APIs, distributed systems, and backend solutions using modern software architecture principles. I enjoy solving complex engineering problems while balancing clean architecture, performance, and business requirements.
 
-# 🚀 Quem sou eu
+Currently, my work focuses on:
 
-- 💼 Backend Developer
-- 🧠 Estudando arquitetura avançada e sistemas distribuídos
-- ⚙️ Experiência com integrações complexas
-- 📚 Sempre estudando fundamentos (algoritmos, arquitetura e infra)
-
-Meu foco é construir sistemas que sejam:
-
-- escaláveis
-- resilientes
-- fáceis de manter
+* 🚀 Building scalable backend services
+* 🏗️ Software Architecture & Domain-Driven Design (DDD)
+* 🔄 Distributed Systems & Asynchronous Processing
+* ⚡ High-performance REST APIs
+* 🐳 Containerized applications with Docker
+* 🤖 AI-assisted software development
+* 📈 Continuous learning in System Design, Cloud, and Infrastructure
 
 ---
 
-# 🧰 Tech Stack
+# 💻 Tech Stack
 
-## Backend
-- C#
-- .NET
-- ASP.NET Core
-- Entity Framework
+### Languages
 
-## Arquitetura
-- DDD
-- Clean Architecture
-- SOLID
-- CQRS
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=csharp\&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 
-## Infraestrutura
-- Docker
-- Linux
-- CI/CD
+### Backend
 
-## Mensageria
-- RabbitMQ
-- processamento assíncrono
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge\&logo=.net\&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
 
-## Banco de dados
-- PostgreSQL
-- SQL Server
+### Architecture
+
+![DDD](https://img.shields.io/badge/DDD-Domain--Driven_Design-blue?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge)
+![CQRS](https://img.shields.io/badge/CQRS-0F766E?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID-8B5CF6?style=for-the-badge)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+### Messaging
+
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge\&logo=rabbitmq\&logoColor=white)
+
+### Infrastructure & DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge\&logo=githubactions\&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI%2FCD-0A66C2?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-000000?style=for-the-badge)
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=for-the-badge\&logo=openai\&logoColor=white)
 
 ---
 
-# 🚀 Projetos principais
+# 🚀 What I Enjoy Building
 
-### 🔹 APIs escaláveis em .NET
-Construção de APIs robustas usando:
-- Clean Architecture
-- DDD
-- CQRS
-- mensageria
+* High-performance REST APIs
+* Distributed Systems
+* Event-Driven Architectures
+* Microservices
+* Backend Integrations
+* Asynchronous Processing
+* Scalable Cloud Applications
 
-### 🔹 Integrações e processamento assíncrono
-Sistemas que lidam com:
+---
 
-- filas
-- processamento distribuído
-- alta confiabilidade
+# 📈 Currently Learning
 
-### 🔹 Automação e infraestrutura
-Uso de Docker para ambientes consistentes e deploy simplificado.
+* System Design
+* Cloud Architecture
+* Kubernetes
+* Terraform
+* AWS
+* Software Architecture Patterns
 
 ---
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusabe&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mateusabe\&show_icons=true\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusabe&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mateusabe\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=mateusabe&theme=tokyonight)
-
----
-
-# 📬 Contato
-
-💼 LinkedIn:  
-https://linkedin.com/in/mateusabe
-
-📧 Email:  
-mateus.miranda@outlook.com
+![GitHub Streak](https://streak-stats.demolab.com?user=mateusabe\&theme=tokyonight)
 
 ---
 
-⭐ Se algum projeto te ajudar, considere deixar uma estrela.
+# 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/mateusabe)
+
+📧 **Email:** [mateus.miranda@outlook.com](mailto:mateus.miranda@outlook.com)
+
+---
+
+⭐ *Feel free to explore my repositories. If you find something useful, consider giving it a star!*
